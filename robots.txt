@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /loja/carrinho.php*
+Disallow: /loja/pag_parcelado.php*
+Disallow: /*transID*
+Disallow: /checkout*
+Disallow: /loja/comparador.php
+Disallow: /pricing/*
+Disallow: /loja/funcoes/*
+Disallow: /loja/simular_frete2.php*
+Sitemap: https://royalcases.commercesuite.com.br/sitemap.xml
